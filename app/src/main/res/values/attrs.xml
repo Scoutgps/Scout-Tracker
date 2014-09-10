@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="ScalableText">
+		<attr name="textSizePercent" format="float"/>
+	</declare-styleable>
+	<declare-styleable name="ScalableImageView">
+		<attr name="imageWidthSizePercent" format="float"/>
+		<attr name="imageHeightSizePercent" format="float"/>
+	</declare-styleable>
+</resources>

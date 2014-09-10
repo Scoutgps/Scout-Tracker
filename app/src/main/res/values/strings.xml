@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">СКАУТ Трекер</string>
+	<string name="home_copyright">(С) ГК “СКАУТ”</string>
+	<string name="home_label">Трекер</string>
+	<string name="tracker_start_tracking">Начать трекинг</string>
+	<string name="tracker_stop_tracking">Остановить трекинг</string>
+	<string name="tracker_no_gps_tooltip">ОТСУТСТВУЕТ GPS-ДАТЧИК</string>
+	<string name="tracker_gps_status_label">GPS</string>
+	<string name="tracker_network_status_label">Интернет</string>
+	<string name="tracker_last_location_coordinates_label">ПОСЛЕДНИЕ GPS-КООРДИНАТЫ</string>
+	<string name="tracker_last_location_time_label">Время:</string>
+	<string name="tracker_last_location_latitude_label">Широта:</string>
+	<string name="tracker_last_location_longitude_label">Долгота:</string>
+	<string name="tracker_no_coordinates_tooltip">--</string>
+	<string name="settings_label">Настройки</string>
+	<string name="settings_device_id_label">ID устройства</string>
+	<string name="settings_scout_rx_server_address_label">Адрес сервера</string>
+	<string name="settings_scout_rx_server_port_label">Порт сервера</string>
+	<string name="settings_request_interval_label">Интервал определения координат</string>
+	<string name="settings_journal_size_label">Размер журнала</string>
+	<string name="settings_show_notifications_label">Уведомления</string>
+	<string name="settings_show_notifications_on">Вкл.</string>
+	<string name="settings_show_notifications_off">Выкл.</string>
+	<string name="settings_packets_send_mode_label">Передавать по</string>
+	<string name="settings_packets_send_mode_by_interval">интервалу</string>
+	<string name="settings_packets_send_mode_by_threshold">накоплению</string>
+	<string name="settings_packets_send_interval_label">Интервал передачи</string>
+	<string name="settings_packets_send_threshold_label">Порог накопления</string>
+	<string name="settings_filter_accuracy_threshold_label">Порог точности фильтра</string>
+	<string name="settings_gps_filter_detalization_label">Настройки детализации трек</string>
+	<string name="settings_apply_btn_text">Готово</string>
+	<string name="settings_alert_not_valid_changes">В измененных настройках содержатся ошибки</string>
+	<string name="settings_info_settings_applied">Изменения в настройках применены</string>
+	<string name="settings_alert_question">Изменения в настройках будут отменены, продолжить?
+	</string>
+	<string name="main_gpservices_not_available_alert">Сервисы геолокации недоступны на данном устройстве.
+		Работа программы невозможна</string>
+	<string name="main_gpservices_connection_failed_alert">Не удалось запустить сервис геолокации</string>
+	<string name="about_number1">8 (812) 607–77–41</string>
+	<string name="about_number2">8 (800) 250–60–77</string>
+	<string name="about_url_link">www.scout-gps.ru</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<style name="AppTheme" parent="@android:style/Theme.Black.NoTitleBar">
+		<item name="android:windowBackground">@color/app_bg</item>
+	</style>
+	<style name="SettingsItem">
+		<item name="android:paddingLeft">20dp</item>
+		<item name="android:paddingRight">15dp</item>
+		<item name="android:background">@color/settings_item_bg</item>
+	</style>
+	<style name="SettingsEditText">
+		<item name="android:paddingLeft">10dp</item>
+		<item name="android:paddingRight">10dp</item>
+		<item name="android:paddingTop">4dp</item>
+		<item name="android:paddingBottom">4dp</item>
+		<item name="android:textColor">@color/settings_edit_text</item>
+		<item name="android:singleLine">true</item>
+		<item name="android:imeOptions">actionDone</item>
+		<item name="android:background">@color/settings_edit_text_bg</item>
+	</style>
+	<style name="SettingsLabel">
+		<item name="android:textColor">@color/settings_text</item>
+		<item name="android:singleLine">true</item>
+	</style>
+	<style name="SettingsOption">
+		<item name="android:paddingLeft">10dp</item>
+		<item name="android:paddingRight">10dp</item>
+		<item name="android:paddingTop">6dp</item>
+		<item name="android:paddingBottom">6dp</item>
+		<item name="android:textColor">@color/settings_text</item>
+		<item name="android:singleLine">true</item>
+	</style>
+	<style name="SettingsSeekBarLabel">
+		<item name="android:textColor">@color/settings_text</item>
+		<item name="android:singleLine">true</item>
+	</style>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="app_bg">#000</color>
+	<color name="green_bg">#1c2217</color>
+	<color name="app_text">#FFF</color>
+	<color name="tracker_last_location_coordinates_label_bg">#FFF</color>
+	<color name="tracker_last_location_coordinates_label_text">#518920</color>
+	<color name="tracker_last_location_coordinates_divider_bg">#343434</color>
+	<color name="tracker_bottom_logo_bg">#343434</color>
+	<color name="tracker_bottom_logo_pressed_bg">#444</color>
+	<color name="settings_bg">#242c38</color>
+	<color name="settings_item_bg">#10151c</color>
+	<color name="settings_text">#FFF</color>
+	<color name="settings_edit_text">#000</color>
+	<color name="settings_edit_text_bg">#FFF</color>
+	<color name="settings_edit_text_error_bg">#fe9595</color>
+	<color name="about_url_link_text">#4e7b27</color>
+</resources>
